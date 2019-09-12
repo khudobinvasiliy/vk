@@ -1,7 +1,6 @@
 const {VK, Keyboard} = require('vk-io'); // подключение библиотек и прочее
-const token = 'f99386c05a9e06cabccfb27d2dc6e33ef3628a1b0276fc0d388d6c4994171f5689f72a394ccb94415b3e0'
 const vk = new VK({
-    token: token
+    token: 'f99386c05a9e06cabccfb27d2dc6e33ef3628a1b0276fc0d388d6c4994171f5689f72a394ccb94415b3e0'
 }); // подключение сообщества
 
 var zvonki1 = `
